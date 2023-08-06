@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.e125c9c8.css",
+    "main.js": "/my-portfolio/static/js/main.0c0171d0.js",
+    "static/js/787.7efd31bd.chunk.js": "/my-portfolio/static/js/787.7efd31bd.chunk.js",
+    "static/media/lucky.jpg": "/my-portfolio/static/media/lucky.49ca339eeeb4862dfc5b.jpg",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/my-portfolio/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/my-portfolio/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/my-portfolio/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/my-portfolio/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/my-portfolio/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/gotosite.webp": "/my-portfolio/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/my-portfolio/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.e125c9c8.css.map": "/my-portfolio/static/css/main.e125c9c8.css.map",
+    "main.0c0171d0.js.map": "/my-portfolio/static/js/main.0c0171d0.js.map",
+    "787.7efd31bd.chunk.js.map": "/my-portfolio/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e125c9c8.css",
+    "static/js/main.0c0171d0.js"
+  ]
+}
