@@ -20,7 +20,7 @@ export default function Slidebar() {
             className="rounded-full border-solid cursor-pointer  border-[8px] border-stone-600 min-h-fit mx-auto  max-w-[190px]"
           />
           <h3 className="text-white name py-4 font-medium ">
-          <a href="#">
+          <a href="#home">
             PADDA YOGESHWARA RAO
             </a>
           </h3>
@@ -33,7 +33,7 @@ export default function Slidebar() {
           data-aos="slide-right"
           data-aos-delay="200"
         >
-          <a href="#">Home</a>
+          <a href="#home">Home</a>
         </p>
         <p
           onClick={() => setSelect(1)}
